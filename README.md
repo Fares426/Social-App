@@ -60,7 +60,6 @@ A modern social media web application built with React, inspired by Facebook. Me
 | Forms | React Hook Form + Zod |
 | Component Library | HeroUI |
 | Styling | Tailwind CSS v4 |
-| Animations | Framer Motion |
 | Notifications | React Toastify |
 | Icons | React Icons |
 | Auth Decoding | jwt-decode |
