@@ -141,12 +141,6 @@ All protected endpoints require a Bearer token passed in the `Authorization` hea
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your app here_
-
----
-
 ## 🙌 Author
 
 Built by **Fares** — feel free to connect!
