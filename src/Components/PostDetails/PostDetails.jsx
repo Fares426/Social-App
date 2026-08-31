@@ -40,7 +40,7 @@ export default function PostDetails() {
     if (isError) return <h1>{error.message}</h1>
 
     return (
-        <div className='mt-7 min-h-screen w-1/2 mx-auto flex justify-center items-start'>
+        <div className='mt-7 min-h-screen w-full px-4 sm:w-4/5 sm:px-0 lg:w-1/2 mx-auto flex justify-center items-start'>
             <PostCard postInfo={postDetails} comments={postComments} isPostDetailsPage={true} />
         </div>
     )
